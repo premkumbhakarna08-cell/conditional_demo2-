@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - feature
+      - b1
 
 jobs:
   production-deploy:
